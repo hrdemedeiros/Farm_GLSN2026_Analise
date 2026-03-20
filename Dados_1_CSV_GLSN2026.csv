@@ -1,0 +1,90 @@
+Data;Ordem;Vaca;DG1;Protocolo_1;Inseminação_1;OBS. da IA 1;DG 2
+08/07/2025;1;1;Vazia;2 ml Sincrocio no D8;Mohana;GnRH;Prenhe
+08/07/2025;2;2;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;3;3;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;4;4;Vazia;Retoque;Prenhe;Nenhuma;Sem Exame
+08/07/2025;5;5;Vazia;Infusão;Sem_IA;Nenhuma;Vazia
+08/07/2025;6;7;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;7;8;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;8;9;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;9;10;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;10;12;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;11;14;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;12;15;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Vazia
+08/07/2025;13;16;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;14;17;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;15;18;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;16;19;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;17;20;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;18;21;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Vazia
+08/07/2025;19;22;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;20;23;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;21;24;Sem_Diagnóstico;Sem Protocolo;Mohana;GnRH;Prenhe
+08/07/2025;22;25;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;23;26;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Vazia
+08/07/2025;24;27;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;25;28;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Vazia
+08/07/2025;26;29;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Vazia
+08/07/2025;27;30;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;28;31;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Vazia
+08/07/2025;29;33;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;30;34;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;31;35;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;32;36;Vazia;IATF;Touro;Nenhuma;Prenhe
+08/07/2025;33;39;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;34;40;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;35;41;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;36;43;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;37;44;Vazia;Sem Protocolo;Sem_IA;Nenhuma;Vazia
+08/07/2025;38;45;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;39;46;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;40;47;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;41;48;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;42;49;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;43;51;Sem_Diagnóstico;Sem Protocolo;Touro;Nenhuma;Prenhe
+08/07/2025;44;52;Vazia;Sem Protocolo;Infusão Uterina;Gentrin;Vazia
+08/07/2025;45;53;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;46;54;Vazia;2 ml Sincrocio no D8;Mohana;GnRH;Vazia
+08/07/2025;47;55;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;48;56;Vazia;2 ml Sincrocio no D8;Mohana;GnRH;Vazia
+08/07/2025;49;58;Vazia;Infusão;Sem_IA;Nenhuma;Vazia
+08/07/2025;50;60;Prenhe;Retoque;Sem_IA;Nenhuma;Prenhe
+08/07/2025;51;62;Vazia;Infusão;Sem_IA;Nenhuma;Vazia
+08/07/2025;52;63;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;53;64;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;54;66;Prenhe;Prenhe;Prenhe;Nenhuma;Vazia
+08/07/2025;55;67;Sem_Diagnóstico;Sem Protocolo;Mohana;GnRH;Vazia
+08/07/2025;56;70;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;57;71;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;58;72;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;59;73;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;60;77;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;61;78;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;62;79;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;63;80;Vazia;2 ml Sincrocio no D8;Mohana;GnRH;Prenhe
+08/07/2025;64;81;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;65;82;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;66;83;Prenhe;Retoque;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;67;84;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;68;86;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;69;87;Vazia;2 ml Sincrocio no D8;Mohana;GnRH;Vazia
+08/07/2025;70;88;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;71;89;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;72;90;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;73;93;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;74;94;Vazia;IATF;Mohana;GnRH;Prenhe
+08/07/2025;75;95;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;76;96;Sem_Diagnóstico;Sem Protocolo;Mohana;GnRH;Vazia
+08/07/2025;77;97;Sem_Diagnóstico;Sem Protocolo;Mohana;GnRH - Vaginite;Vazia
+08/07/2025;78;101;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Vazia
+08/07/2025;79;102;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;80;103;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;81;104;Sem_Diagnóstico;Sem Protocolo;Mohana;GnRH;Vazia
+08/07/2025;82;105;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;83;112;Vazia;IATF;Mohana;GnRH;Vazia
+08/07/2025;84;117;Prenhe;Prenhe;Prenhe;Nenhuma;Sem Exame
+08/07/2025;85;122;Vazia;2 ml Sincrocio no D8;Mohana;GnRH;Prenhe
+08/07/2025;86;131;Vazia;2 ml Sincrocio no D8;Mohana;GnRH;Vazia
+08/07/2025;87;133;Vazia;Infusão;Infusão Uterina;Gentrin;Vazia
+08/07/2025;88;186;Sem_Diagnóstico;Sem Protocolo;Sem_IA;Nenhuma;Sem Exame
+08/07/2025;89;311;Vazia;IATF;Mohana;GnRH;Vazia
